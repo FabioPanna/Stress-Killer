@@ -29,7 +29,7 @@ build/
 .gradle
 local.properties
 *.iml
-app\google-services.json
+app/google-services.json
 
 # node.js
 #
