@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "87765470256",
+    "firebase_url": "https://stress-killer.firebaseio.com",
+    "project_id": "stress-killer",
+    "storage_bucket": "stress-killer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87765470256:android:79eb130e5b39db10",
+        "android_client_info": {
+          "package_name": "com.giphyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87765470256-s46mssdilk2tthd3cqvmo4n06rm5hsto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrpCaqYQH9EA_kiGkCXkkWHJb9cQ9A9aE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
